@@ -1,0 +1,21 @@
+body {
+  background-image: url(/images/1.jpg?a42c0ce262675a22de330e659e917fce);
+}
+
+body .hwstw-ca {
+  height: 500px;
+  overflow: hidden;
+}
+
+body .section-cont {
+  background-color: white;
+}
+
+body .over-cop {
+  position: absolute;
+  top: 200px;
+  left: 46%;
+  z-index: 999;
+  color: white;
+}
+

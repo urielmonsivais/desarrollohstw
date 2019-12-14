@@ -1,0 +1,17 @@
+body {
+    .hwstw-ca {
+        height: 500px;
+        overflow: hidden;
+    }
+    background-image: url('../img/slider/1.jpg');
+    .section-cont {
+        background-color: white;
+    }
+    .over-cop {
+        position: absolute;
+        top: 200px;
+        left: 46%;
+        z-index: 999;
+        color: white;
+    }
+}
